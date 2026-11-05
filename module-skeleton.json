@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-account-planning-flutter",
+  "capabilityKey": "liberusoftware/module-crm-account-planning",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_account_planning_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/account-planning.md",
+  "presentationPlan": "projects/crm/flutter/account-planning.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
